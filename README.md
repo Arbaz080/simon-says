@@ -1,2 +1,2 @@
 # simon says game
-Created by Arbaz.
+Created by Arbaz..
